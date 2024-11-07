@@ -13,10 +13,10 @@
 - **IPFS:** Decentralized storage protocol for hosting uploaded images.
 
 ## Overview
-![Login | Sign Up Page](SCREENSHOTS\Signup Login.png)
-![Main Page](SCREENSHOTS\SCREENSHOTS\Main Page.png)
-![Provide Storage](SCREENSHOTS\Provide Storage.png)
-![Purchase Storage](SCREENSHOTS\Purchase storage.png)
+![Login | Sign Up Page](SCREENSHOTS/SignupLogin.png)
+![Main Page](SCREENSHOTS/MainPage.png)
+![Provide Storage](SCREENSHOTS/ProvideStorage.png)
+![Purchase Storage](SCREENSHOTS/PurchaseStorage.png)
 
 
 ### Installation
